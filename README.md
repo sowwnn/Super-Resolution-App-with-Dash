@@ -1,4 +1,4 @@
-# Dash-SISR-Demo
+# Super-Resolution-App-with-Dash
 
 ## Hi! I am Sho0 🤤
 
@@ -32,6 +32,10 @@
 ```
 http://127.0.0.1:8050/
 ```
+
+## My app interface like this 👇: 
+
+![UI](./assets/ui.png)
 
 
 **Wow now u can using my app!!! That cool right?**
