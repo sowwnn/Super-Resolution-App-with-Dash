@@ -3,7 +3,9 @@
 ## Hi! I am Sho0 🤤
 
 **This is demo app for my first project about Computer vision** 
-
+```
+Document: https://cse.huflit.edu.vn/cse_files/userfiles/files/HNCapKhoa/YTSTTCNTTLan5/NCDPGHABCMHHS-VTHS-TNQT-5-25.pdf
+```
 **In this repository:**
 - demo.py: this is project code, I was use Dash.plotly for backend and Tailwindcss for layout.
 - requirement.py: this is file you need to run before run app
